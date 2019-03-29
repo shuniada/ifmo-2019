@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<cv>
+<language name = "HTTP">
+<knowledge value = "HTTP">methods and headers</knowledge>
+<language name = "PHP">
+<knowledge value = "PHP">good, but could be better</knowledge>
+<language name = "JavaScript">
+<knowledge value = "JavaScript">basic knowledge of functions</knowledge>
+<language name = "jQuery">
+<knowledge value = "jQuery">know how to make ajax request</knowledge>
+<language name = "JSON">
+<knowledge value = "JSON">good</knowledge>
+<language name = "HTML">
+<knowledge value = "HTML">basic knowlage of tags</knowledge>
+<language name = "CSS">
+<knowledge value = "CSS">easy learning,have worked with tables</knowledge>
+<language name = "SQL">
+<knowledge value = "SQL">know how to make requests</knowledge>
+<language name = "XML">
+<knowledge value = "XML">need to learn the syntax</knowledge>
+<language name = "Python">
+<knowledge value = "Python">know the basic syntax of functions</knowledge>
+</cv>
