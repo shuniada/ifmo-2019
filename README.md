@@ -18,7 +18,7 @@
 * ## [События: управление слушателями](https://kodaktor.ru/evnt_f1a31)
   ### [Задание EVNT_001](https://kodaktor.ru/evnt_001)
 * ## [События: кастомные события, коммуникация компонентов](https://kodaktor.ru/custom_afbb7)
-  ### [Задание EVNT_002](Задание: https://kodaktor.ru/evnt_002)
+  ### [Задание EVNT_002](https://kodaktor.ru/evnt_002)
 * ## [Транспиляция: bind](https://kodaktor.ru/bind02032018_9cb32)
   ### [Задание BABL_002](https://kodaktor.ru/babl_002)
 * ## [Immediately Invoked Function Expression](https://kodaktor.ru/iife_ddb3a)
