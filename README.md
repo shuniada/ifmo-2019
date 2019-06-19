@@ -15,3 +15,5 @@
   ### [Задание func_008](https://kodaktor.ru/func_008)
 * ## [Безымянная рекурсия](FUNC-010)
   ### [Задание func_010](https://kodaktor.ru/func_010)
+* ## [События: управление слушателями](https://kodaktor.ru/evnt_f1a31)
+  ### [Задание EVNT_001](https://kodaktor.ru/evnt_001)
