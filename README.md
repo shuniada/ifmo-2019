@@ -33,4 +33,4 @@
   ### [Задание ITER-001](https://kodaktor.ru/iter_001)
 * ## [Массив промисов](https://kodaktor.ru/async_tasks_7d1dc)
   ### [Задание ASYNC-TASKS](https://kodaktor.ru/async_tasks)
-* ## [Корзина товаров](index.html)
+* ## [Корзина товаров](https://shuniada.github.io/ifmo-2019/index.html)
