@@ -1,6 +1,7 @@
 # Автор: Каракетова Дарья (с)2019
 ---
 # Список заданий:
+* ## [Курсовая работа](Darya_K_Kursach.docx)
 * ## [Решение на владение this-параметризацией function-функции](https://kodaktor.ru/func_c0711)
   ### [Задание func_002](https://kodaktor.ru/func_002)
 * ## [Решение на импорт функции из модуля](https://kodaktor.ru/func_7c2a1)
