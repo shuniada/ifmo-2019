@@ -32,6 +32,6 @@
   ### [Задание IPS_TASK](https://kodaktor.ru/g/ips_task)
 * ## [Задание по итератору](https://kodaktor.ru/iter_5e8c4)
   ### [Задание ITER-001](https://kodaktor.ru/iter_001)
-* ## [Массив промисов](https://kodaktor.ru/async_tasks_7d1dc)
+* ## [Массив промисов](https://kodaktor.ru/async_tasks_f1d96)
   ### [Задание ASYNC-TASKS](https://kodaktor.ru/async_tasks)
 * ## [Корзина товаров](https://shuniada.github.io/ifmo-2019/index.html)
