@@ -7,6 +7,8 @@
   ### [Задание по веб-сокетам](https://kodaktor.ru/g/websockets_lab)
 * ## [Бот](https://kodaktor.ru/g/daace7b)
   ### [Создание бота](https://kodaktor.ru/g/bots)
+* ## [Decrypto](https://kodaktor.ru/g/daace7b)
+  ### [Мини-хакатон-челлендж](https://kodaktor.ru/g/public09092019)
 ---
 # Список заданий 2019:
 * ## [Курсовая работа](Darya_K_Kursach.docx)
