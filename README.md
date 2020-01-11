@@ -1,7 +1,7 @@
 # Автор: Каракетова Дарья (с)2019
 ---
 # Список заданий 2020:
-* ## [Создание SCORM-пакета](https://github.com/shuniada/ifmo-2019/blob/master/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%20SCORM)
+* ## [Создание SCORM-пакета](https://github.com/shuniada/ifmo-2019/tree/master/SCORM-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82)
   ### [Задание по SCORM](https://kodaktor.ru/g/scorm)
 ---
 # Список заданий 2019:
