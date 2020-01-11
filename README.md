@@ -3,6 +3,8 @@
 # Список заданий 2020:
 * ## [Создание SCORM-пакета](https://github.com/shuniada/ifmo-2019/tree/master/SCORM-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82)
   ### [Задание по SCORM](https://kodaktor.ru/g/scorm)
+* ## [Веб-сокеты](https://github.com/shuniada/ifmo-2019/tree/master/SCORM-%D0%BF%D0%B0%D0%BA%D0%B5%D1%82)
+  ### [Задание по веб-сокетам](https://kodaktor.ru/g/websockets_lab)
 ---
 # Список заданий 2019:
 * ## [Курсовая работа](Darya_K_Kursach.docx)
