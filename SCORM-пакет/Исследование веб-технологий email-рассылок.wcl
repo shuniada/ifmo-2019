@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Course file, saved 1/11/2020 4:06:18 PM by Dasha using CourseLab 190608 -->
+<course3>
+<aicc_code>EM_1</aicc_code>
+<aicc_name>Исследование веб-технологий email-рассылок</aicc_name>
+<aicc_description>Исследование веб-технологий email-рассылки</aicc_description>
+<modules>
+<module>
+<name>1</name>
+<folder_id>0</folder_id>
+<file>1\1.xml</file>
+<aicc_code>EM_01</aicc_code>
+<aicc_name>Свойства email-рассылки</aicc_name>
+<aicc_description>Исследование веб-технологий email-рассылки</aicc_description>
+<aicc_maxmark></aicc_maxmark>
+<aicc_reqmark></aicc_reqmark>
+</module>
+</modules>
+<windows>
+<window>
+<module>1</module>
+<zoom>0</zoom>
+<subSlideVisible>true</subSlideVisible>
+<active>true</active>
+<slide>SLIDE_13</slide>
+</window>
+</windows>
+</course3>
