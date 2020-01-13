@@ -6,7 +6,7 @@
 * ## [Веб-сокеты](http://kodaktor.ru/g/ws_c89c5)
   ### [Задание по веб-сокетам](https://kodaktor.ru/g/websockets_lab)
 * ## [Бот](https://kodaktor.ru/g/daace7b)
-  ### [Создание бота](https://kodaktor.ru/g/bots)
+  ### [Задание по созданию бота](https://kodaktor.ru/g/bots)
 * ## [Decrypto](https://kodaktor.ru/g/daace7b)
   ### [Мини-хакатон-челлендж](https://kodaktor.ru/g/public09092019)
 ---
